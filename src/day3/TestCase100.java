@@ -18,3 +18,4 @@ public class TestCase100 {
 //warning veriyor
     //
 }
+// new
