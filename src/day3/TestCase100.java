@@ -15,6 +15,6 @@ public class TestCase100 {
 
 
     //neden bazen commit olmuyor
-
+//warning veriyor
     //
 }
