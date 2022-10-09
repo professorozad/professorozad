@@ -1,10 +1,17 @@
 public class TC100 {
-    public static TC100 newInstance() {
+    public static void main(String[] args) {
 
-        //var args = new Bundle();
-
-       // TC100 fragment = new TC100();
-       // fragment.setArguments(args);
-        //return fragment;
     }
-}
+    /*
+
+
+
+        android.os.Bundle args = new Bundle();
+
+        TC100 fragment = new TC100();
+        fragment.setArguments(args);
+        return fragment;
+
+     */
+    }
+
